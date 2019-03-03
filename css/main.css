@@ -1,0 +1,67 @@
+/*colors*/
+/*near black: rgb(34,30,31) #221e1f*/
+/*gray: rgb(62,60,62) #3e3c3e*/
+/*gold: rgb(117,104, 68) #756844*/
+
+/*fonts*/
+/*font-family: 'Source Sans Pro', sans-serif;*/
+/*font-family: 'Montserrat', sans-serif;*/
+
+.header-container{ /*A box that will contain the entire website for centering purposes*/
+	width:100%; /*The container will try to fill the entire browser window width*/
+	margin:0px auto; /*This line of code is the key.  0px margin top and bottom, auto margin left and right to center*/
+    background-color:#3e3c3e;
+	padding:0px;
+	box-sizing:border-box;/*Makes it so that padding does not add to a box's total width*/
+
+	display:flex;
+	flex-wrap:wrap; /*wrap, nowrap, wrap-reverse*/
+	flex-direction:row; /*row, row-reverse, column, column-reverse*/
+	align-content:flex-start; /*flex-start, flex-end, center, stretch, space-between, space around*/
+	align-items:stretch; /*flex-end, center, stretch, baseline*/
+}
+
+.logo{
+    display: inline-block;
+	margin: auto;
+	width:300px;
+	padding:2%;
+    box-sizing:border-box;
+    align-items: center;
+}
+
+.elp-title{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 4em;
+    color: white;
+    background-color:rgb(62,60,62);
+	margin-top: auto;
+	width:300px;
+	padding:0%;
+    box-sizing:border-box;
+	flex-grow: 1;
+	vertical-align: bottom;
+}
+
+.body-container{ /*A box that will contain the entire website for centering purposes*/
+	width:100%; /*The container will try to fill the entire browser window width*/
+	max-width:960px; /*the maximum width the container will grow to, gives frame of reference to center container*/
+	margin:0px auto; /*This line of code is the key.  0px margin top and bottom, auto margin left and right to center*/
+	background-color:rgb(225,225,225);
+	padding:0px;
+	box-sizing:border-box;/*Makes it so that padding does not add to a box's total width*/
+
+	display:flex;
+	flex-wrap:wrap; /*wrap, nowrap, wrap-reverse*/
+	flex-direction:row; /*row, row-reverse, column, column-reverse*/
+	align-content:flex-start; /*flex-start, flex-end, center, stretch, space-between, space around*/
+	align-items:stretch; /*flex-end, center, stretch, baseline*/
+}
+
+.fullwidth{
+	background-color:rgb(175,175,175);
+	margin:2%;
+	width:96%;
+	padding:2%;
+	box-sizing:border-box;
+}

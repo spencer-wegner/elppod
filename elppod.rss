@@ -1,0 +1,55 @@
+<!--
+<item>
+    <itunes:episodeType></itunes:episodeType>
+    <itunes:title></itunes:title>
+    <title></title>
+    <itunes:author></itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary></itunes:summary>
+    <description></description>
+    <content:encoded><![CDATA[]]>.</content:encoded>
+    <enclosure length="" type="" url=""/>
+    <guid></guid>
+    <pubDate></pubDate>
+    <itunes:duration></itunes:duration>
+    <itunes:explicit></itunes:explicit>
+</item>
+-->
+<?xml version="1.0" encoding "UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CU ELP Podcast</title>
+        <link>https://www.elppod.com</link>
+        <language>en-us</language>
+        <copyright>&#8471; &amp; &#xA9; 2019 Spencer Wegner</copyright>
+        <itunes:subtitle>Thought provoking ideas about leadership.</itunes:subtitle>
+        <itunes:summary>Interviews exploring ideas about leadership. Targeted at students in the Engineering Leadership Program at the University of Colorado Boulder.</itunes:summary>
+        <description>Interviews exploring ideas about leadership. Targeted at students in the Engineering Leadership Program at the University of Colorado Boulder.</description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>Spencer Wegner</itunes:name>
+            <itunes:email>spencerwegner11@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="img/elppodlogo.png"></itunes:image>
+        <itunes:category text="Education">
+        <itunes:category text="Higher Education" />
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        
+    </channel>
+    <item>
+        <itunes:episodeType></itunes:episodeType>
+        <itunes:title></itunes:title>
+        <title></title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <description></description>
+        <content:encoded><![CDATA[]]>.</content:encoded>
+        <enclosure length="" type="" url=""/>
+        <guid></guid>
+        <pubDate></pubDate>
+        <itunes:duration></itunes:duration>
+        <itunes:explicit></itunes:explicit>
+    </item>
+</rss>
