@@ -47,7 +47,7 @@
 	width:100%; /*The container will try to fill the entire browser window width*/
 	max-width:960px; /*the maximum width the container will grow to, gives frame of reference to center container*/
 	margin:0px auto; /*This line of code is the key.  0px margin top and bottom, auto margin left and right to center*/
-	background-color:rgb(225,225,225);
+	background-color:rgb(117,104, 68);
 	padding:0px;
 	box-sizing:border-box;/*Makes it so that padding does not add to a box's total width*/
 
@@ -59,9 +59,18 @@
 }
 
 .fullwidth{
-	background-color:rgb(175,175,175);
+	background-color:rgb(34,30,31);
 	margin:2%;
 	width:96%;
 	padding:2%;
 	box-sizing:border-box;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}
+
+body{
+	background-color: rgb(62,60,62);
 }
