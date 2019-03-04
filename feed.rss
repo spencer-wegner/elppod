@@ -1,21 +1,3 @@
-<!--
-<item>
-    <itunes:episodeType></itunes:episodeType>
-    <itunes:title></itunes:title>
-    <title></title>
-    <itunes:author></itunes:author>
-    <itunes:subtitle></itunes:subtitle>
-    <itunes:summary></itunes:summary>
-    <description></description>
-    <content:encoded><![CDATA[]]>.</content:encoded>
-    <enclosure length="" type="" url=""/>
-    <guid></guid>
-    <pubDate></pubDate>
-    <itunes:duration></itunes:duration>
-    <itunes:explicit></itunes:explicit>
-    <itunes:episode></itunes:episode>
-</item>
--->
 <?xml version="1.0" encoding "UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
