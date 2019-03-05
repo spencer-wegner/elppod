@@ -6,6 +6,7 @@
         <language>en-us</language>
         <copyright>&#8471; &amp; &#xA9; 2019 Spencer Wegner</copyright>
         <itunes:subtitle>Thought provoking ideas about leadership.</itunes:subtitle>
+        <itunes:author>Spencer Wegner</itunes:author>
         <itunes:summary>Interviews exploring ideas about leadership. Targeted at students in the Engineering Leadership Program at the University of Colorado Boulder.</itunes:summary>
         <description>Interviews exploring ideas about leadership. Targeted at students in the Engineering Leadership Program at the University of Colorado Boulder.</description>
         <itunes:type>episodic</itunes:type>
@@ -18,6 +19,23 @@
         <itunes:category text="Higher Education" />
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
+
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Episode 4 Andrea Kowalchuk</itunes:title>
+            <title>Episode 4 Andrea Kowalchuk</title>
+            <itunes:author>Spencer Wegner</itunes:author>
+            <itunes:subtitle>A conversation with Herbst Program instructor Dr. Andrea Kowalchuk.</itunes:subtitle>
+            <itunes:summary>A conversation with Herbst Program instructor Dr. Andrea Kowalchuk. We talk about the benefits of humanities for engineers, some difficult but important questions to ask yourself periodically, what we can learn about leadership in literature, and much more!</itunes:summary>
+            <description>A conversation with Herbst Program instructor Dr. Andrea Kowalchuk. We talk about the benefits of humanities for engineers, some difficult but important questions to ask yourself periodically, what we can learn about leadership in literature, and much more!</description>
+            <content:encoded><![CDATA[A conversation with Herbst Program instructor Dr. Andrea Kowalchuk. We talk about the benefits of humanities for engineers, some difficult but important questions to ask yourself periodically, what we can learn about leadership in literature, and much more!]]>.</content:encoded>
+            <enclosure length="53048175" type="audio/mpeg" url="https://elppod.com/media/4-andrea-kowalchuk.mp3"/>
+            <guid>https://elppod.com/media/4-andrea-kowalchuk.mp3</guid>
+            <pubDate>Tue, 5 Mar 2019 20:30:00 GMT</pubDate>
+            <itunes:duration>55:15</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>4</itunes:episode>
+        </item>
         
         <item>
             <itunes:episodeType>full</itunes:episodeType>
@@ -28,7 +46,7 @@
             <itunes:summary>A conversation with former ELP director and former assistant dean for the College of Engineering and Applied Science, JoAnn Zelasko. We discuss her careers in computing and education, the challenges she faced, tips on how to land internships, and much more!</itunes:summary>
             <description>A conversation with former ELP director and former assistant dean for the College of Engineering and Applied Science, JoAnn Zelasko. We discuss her careers in computing and education, the challenges she faced, tips on how to land internships, and much more!</description>
             <content:encoded><![CDATA[A conversation with former ELP director and former assistant dean for the College of Engineering and Applied Science, JoAnn Zelasko. We discuss her careers in computing and education, the challenges she faced, tips on how to land internships, and much more!]]>.</content:encoded>
-            <enclosure length="75166625" type="audio/x-m4a" url="https://elppod.com/media/3-joann-zelasko.mp3"/>
+            <enclosure length="75166625" type="audio/mpeg" url="https://elppod.com/media/3-joann-zelasko.mp3"/>
             <guid>https://elppod.com/media/3-joann-zelasko.mp3</guid>
             <pubDate>Tue, 22 Jan 2019 12:00:00 GMT</pubDate>
             <itunes:duration>41:22</itunes:duration>
@@ -62,7 +80,7 @@
             <itunes:summary>A conversation with the new ELP Director, Shilo Brooks. We discuss his background, how he discovered an interest in leadership and political science, two different sides of leadership, what he hopes to bring to ELP, and much more!</itunes:summary>
             <description>A conversation with the new ELP Director, Shilo Brooks. We discuss his background, how he discovered an interest in leadership and political science, two different sides of leadership, what he hopes to bring to ELP, and much more!</description>
             <content:encoded><![CDATA[A conversation with the new ELP Director, Shilo Brooks. We discuss his background, how he discovered an interest in leadership and political science, two different sides of leadership, what he hopes to bring to ELP, and much more!]]>.</content:encoded>
-            <enclosure length="28447424" type="audio/x-m4a" url="https://elppod.com/media/1-shilo-brooks.mp3"/>
+            <enclosure length="28447424" type="audio/mpeg" url="https://elppod.com/media/1-shilo-brooks.mp3"/>
             <guid>https://elppod.com/media/1-shilo-brooks.mp3</guid>
             <pubDate>Sat, 06 Oct 2018 12:00:00 GMT</pubDate>
             <itunes:duration>56:50</itunes:duration>
