@@ -22,6 +22,23 @@
 
         <item>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Episode 5 Stephanie Wurtz</itunes:title>
+            <title>Episode 4 Stephanie Wurtz</title>
+            <itunes:author>Spencer Wegner</itunes:author>
+            <itunes:subtitle>A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz.</itunes:subtitle>
+            <itunes:summary>A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz. We talk about her professional experience and leadership in communications, the gender gap in mountain, ultra, and trail running, her work with the Pikes Peak Road Runners, and much more!</itunes:summary>
+            <description>A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz. We talk about her professional experience and leadership in communications, the gender gap in mountain, ultra, and trail running, her work with the Pikes Peak Road Runners, and much more!</description>
+            <content:encoded><![CDATA[A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz. We talk about her professional experience and leadership in communications, the gender gap in mountain, ultra, and trail running, her work with the Pikes Peak Road Runners, and much more!]]>.</content:encoded>
+            <enclosure length="55929544" type="audio/mpeg" url="https://elppod.com/media/5-stephanie-wurtz.mp3"/>
+            <guid>https://elppod.com/media/5-stephanie-wurtz.mp3</guid>
+            <pubDate>Thu, 21 Mar 2019 12:00:00 MST</pubDate>
+            <itunes:duration>38:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>5</itunes:episode>
+        </item>
+
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Episode 4 Andrea Kowalchuk</itunes:title>
             <title>Episode 4 Andrea Kowalchuk</title>
             <itunes:author>Spencer Wegner</itunes:author>
