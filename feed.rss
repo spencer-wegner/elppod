@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CU ELP Podcast</title>
         <link>https://www.elppod.com</link>
@@ -19,6 +19,8 @@
         <itunes:category text="Higher Education" />
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
+
+        <atom:link href="http://elppod.com/feed.rss" rel="self" type="application/rss+xml" />
 
         <item>
             <itunes:episodeType>full</itunes:episodeType>
@@ -77,8 +79,8 @@
             <title>Episode 2 Angela Thieman Dino</title>
             <itunes:author>Spencer Wegner</itunes:author>
             <itunes:subtitle>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP.</itunes:subtitle>
-            <itunes:summary>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&ampid=10173 to find out more. You can also email Ang with any questions.</itunes:summary>
-            <description>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&ampid=10173 to find out more. You can also email Ang with any questions.</description>
+            <itunes:summary>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&amp;id=10173 to find out more. You can also email Ang with any questions.</itunes:summary>
+            <description>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&amp;id=10173 to find out more. You can also email Ang with any questions.</description>
             <content:encoded><![CDATA[A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&id=10173 to find out more. You can also email Ang with any questions.]]>.</content:encoded>
             <enclosure length="82679141" type="audio/mpeg" url="https://elppod.com/media/2-angela-thieman-dino.mp3"/>
             <guid>https://elppod.com/media/2-angela-thieman-dino.mp3</guid>
