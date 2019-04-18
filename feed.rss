@@ -24,6 +24,23 @@
 
         <item>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Episode 6 Dan Larremore</itunes:title>
+            <title>Episode 6 Dan Larremore</title>
+            <itunes:author>Spencer Wegner</itunes:author>
+            <itunes:subtitle>A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore.</itunes:subtitle>
+            <itunes:summary>A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore.</itunes:summary>
+            <description>A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore. We talk about his interesting career path and how he got to where he is today, how network analysis can help eliminate malaria and bring insight into academic labor markets, his thoughts on teaching, and the importance of focusing on learning while not worrying about what you don’t know.</description>
+            <content:encoded><![CDATA[A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore. We talk about his interesting career path and how he got to where he is today, how network analysis can help eliminate malaria and bring insight into academic labor markets, his thoughts on teaching, and the importance of focusing on learning while not worrying about what you don’t know.]]>.</content:encoded>
+            <enclosure length="55929544" type="audio/mpeg" url="https://elppod.com/media/6-dan-larremore.mp3"/>
+            <guid>https://elppod.com/media/6-dan-larremore.mp3</guid>
+            <pubDate>Wed, 17 Apr 2019 22:00:00 EST</pubDate>
+            <itunes:duration>38:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>6</itunes:episode>
+        </item>
+
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Episode 5 Stephanie Wurtz</itunes:title>
             <title>Episode 5 Stephanie Wurtz</title>
             <itunes:author>Spencer Wegner</itunes:author>
