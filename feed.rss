@@ -24,6 +24,23 @@
 
         <item>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Episode 7 An Exploration of Running</itunes:title>
+            <title>Episode 7 An Exploration of Running</title>
+            <itunes:author>Spencer Wegner</itunes:author>
+            <itunes:subtitle>Synthesis project on running research for my Complex Leadership Challenges course.</itunes:subtitle>
+            <itunes:summary>Synthesis project on running research for my Complex Leadership Challenges course.</itunes:summary>
+            <description>My final synthesis project on the running research I did for my Complex Leadership Challenges course in Spring 2019. I give an overview of my research and the insights I discovered during the process. See all the content of my project in my ePortfolio at https://spencerwegner.com/clc.html.</description>
+            <content:encoded><![CDATA[My final synthesis project on the running research I did for my Complex Leadership Challenges course in Spring 2019. I give an overview of my research and the insights I discovered during the process. See all the content of my project in my ePortfolio at https://spencerwegner.com/clc.html.]]>.</content:encoded>
+            <enclosure length="67144168" type="audio/mpeg" url="https://elppod.com/media/7-running-exploration.m4a"/>
+            <guid>https://elppod.com/media/7-running-exploration.m4a</guid>
+            <pubDate>Fri, 7 Jun 2019 21:00:00 EST</pubDate>
+            <itunes:duration>01:09:06</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>7</itunes:episode>
+        </item>
+
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Episode 6 Dan Larremore</itunes:title>
             <title>Episode 6 Dan Larremore</title>
             <itunes:author>Spencer Wegner</itunes:author>
