@@ -24,6 +24,23 @@
 
         <item>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Episode 8 Gabi Edwards Part 1</itunes:title>
+            <title>Episode 8 Gabi Edwards Part 1</title>
+            <itunes:author>Spencer Wegner</itunes:author>
+            <itunes:subtitle>A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda.</itunes:subtitle>
+            <itunes:summary>A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda.</itunes:summary>
+            <description>A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda. We talk about her research project on holistic wellness and what she learned in the research process. We also talk about what she hopes to get out of the Global Intensive and internship in East Africa.</description>
+            <content:encoded><![CDATA[A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda. We talk about her research project on holistic wellness and what she learned in the research process. We also talk about what she hopes to get out of the Global Intensive and internship in East Africa.]]>.</content:encoded>
+            <enclosure length="71495123" type="audio/mpeg" url="https://elppod.com/media/8-gabi-edwards-1.m4a"/>
+            <guid>https://elppod.com/media/8-gabi-edwards-1.m4a</guid>
+            <pubDate>Mon, 24 Jun 2019 09:00:00 EST</pubDate>
+            <itunes:duration>49:14</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>8</itunes:episode>
+        </item>
+        
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Episode 7 An Exploration of Running</itunes:title>
             <title>Episode 7 An Exploration of Running</title>
             <itunes:author>Spencer Wegner</itunes:author>
