@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CU ELP Podcast</title>
-        <link>https://www.elppod.com</link>
+        <link>https://creative.colorado.edu/~spwe4745/elppod</link>
         <language>en-us</language>
         <copyright>&#8471; &amp; &#xA9; 2019 Spencer Wegner</copyright>
         <itunes:subtitle>Thought provoking ideas about leadership.</itunes:subtitle>
@@ -14,25 +14,25 @@
             <itunes:name>Spencer Wegner</itunes:name>
             <itunes:email>spencerwegner11@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://elppod.com/img/elppodlogo.png"></itunes:image>
+        <itunes:image href="https://creative.colorado.edu/~spwe4745/elppod/img/elppodlogo.png"></itunes:image>
         <itunes:category text="Education">
         <itunes:category text="Higher Education" />
         </itunes:category>
         <itunes:explicit>false</itunes:explicit>
 
-        <atom:link href="http://elppod.com/feed.rss" rel="self" type="application/rss+xml" />
+        <atom:link href="https://creative.colorado.edu/~spwe4745/elppod/feed.rss" rel="self" type="application/rss+xml" />
 
         <item>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Episode 8 Gabi Edwards Part 1</itunes:title>
-            <title>Episode 8 Gabi Edwards Part 1</title>
+            <itunes:title>Episode 8 Gabi Edwards</itunes:title>
+            <title>Episode 8 Gabi Edwards</title>
             <itunes:author>Spencer Wegner</itunes:author>
             <itunes:subtitle>A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda.</itunes:subtitle>
             <itunes:summary>A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda.</itunes:summary>
             <description>A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda. We talk about her research project on holistic wellness and what she learned in the research process. We also talk about what she hopes to get out of the Global Intensive and internship in East Africa.</description>
             <content:encoded><![CDATA[A conversation with Gabi Edwards about her experience in Complex Leadership Challenges and the upcoming Global Intensive trip to Uganda and Rwanda. We talk about her research project on holistic wellness and what she learned in the research process. We also talk about what she hopes to get out of the Global Intensive and internship in East Africa.]]>.</content:encoded>
-            <enclosure length="71495123" type="audio/mpeg" url="https://elppod.com/media/8-gabi-edwards-1.m4a"/>
-            <guid>https://elppod.com/media/8-gabi-edwards-1.m4a</guid>
+            <enclosure length="71495123" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/8-gabi-edwards-1.m4a"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/8-gabi-edwards-1.m4a</guid>
             <pubDate>Mon, 24 Jun 2019 09:00:00 EST</pubDate>
             <itunes:duration>49:14</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -48,8 +48,8 @@
             <itunes:summary>Synthesis project on running research for my Complex Leadership Challenges course.</itunes:summary>
             <description>My final synthesis project on the running research I did for my Complex Leadership Challenges course in Spring 2019. I give an overview of my research and the insights I discovered during the process. See all the content of my project in my ePortfolio at https://spencerwegner.com/clc.html.</description>
             <content:encoded><![CDATA[My final synthesis project on the running research I did for my Complex Leadership Challenges course in Spring 2019. I give an overview of my research and the insights I discovered during the process. See all the content of my project in my ePortfolio at https://spencerwegner.com/clc.html.]]>.</content:encoded>
-            <enclosure length="67144168" type="audio/mpeg" url="https://elppod.com/media/7-running-exploration.m4a"/>
-            <guid>https://elppod.com/media/7-running-exploration.m4a</guid>
+            <enclosure length="67144168" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/7-running-exploration.m4a"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/7-running-exploration.m4a</guid>
             <pubDate>Fri, 07 Jun 2019 21:00:00 EST</pubDate>
             <itunes:duration>01:09:06</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -65,8 +65,8 @@
             <itunes:summary>A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore.</itunes:summary>
             <description>A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore. We talk about his interesting career path and how he got to where he is today, how network analysis can help eliminate malaria and bring insight into academic labor markets, his thoughts on teaching, and the importance of focusing on learning while not worrying about what you don’t know.</description>
             <content:encoded><![CDATA[A conversation with Assistant Professor of Computer Science at the BioFrontiers Institute, Dan Larremore. We talk about his interesting career path and how he got to where he is today, how network analysis can help eliminate malaria and bring insight into academic labor markets, his thoughts on teaching, and the importance of focusing on learning while not worrying about what you don’t know.]]>.</content:encoded>
-            <enclosure length="54902640" type="audio/mpeg" url="https://elppod.com/media/6-dan-larremore.mp3"/>
-            <guid>https://elppod.com/media/6-dan-larremore.mp3</guid>
+            <enclosure length="54902640" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/6-dan-larremore.mp3"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/6-dan-larremore.mp3</guid>
             <pubDate>Wed, 17 Apr 2019 22:00:00 EST</pubDate>
             <itunes:duration>57:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -82,8 +82,8 @@
             <itunes:summary>A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz. We talk about her professional experience and leadership in communications, the gender gap in mountain, ultra, and trail running, her work with the Pikes Peak Road Runners, and much more!</itunes:summary>
             <description>A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz. We talk about her professional experience and leadership in communications, the gender gap in mountain, ultra, and trail running, her work with the Pikes Peak Road Runners, and much more!</description>
             <content:encoded><![CDATA[A conversation with Assistant Vice President for Communications at Colorado College and President of the Pikes Peak Road Runners, Stephanie Wurtz. We talk about her professional experience and leadership in communications, the gender gap in mountain, ultra, and trail running, her work with the Pikes Peak Road Runners, and much more!]]>.</content:encoded>
-            <enclosure length="55929544" type="audio/mpeg" url="https://elppod.com/media/5-stephanie-wurtz.mp3"/>
-            <guid>https://elppod.com/media/5-stephanie-wurtz.mp3</guid>
+            <enclosure length="55929544" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/5-stephanie-wurtz.mp3"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/5-stephanie-wurtz.mp3</guid>
             <pubDate>Thu, 21 Mar 2019 11:00:00 EST</pubDate>
             <itunes:duration>38:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -99,8 +99,8 @@
             <itunes:summary>A conversation with Herbst Program instructor Dr. Andrea Kowalchuk. We talk about the benefits of humanities for engineers, some difficult but important questions to ask yourself periodically, what we can learn about leadership in literature, and much more!</itunes:summary>
             <description>A conversation with Herbst Program instructor Dr. Andrea Kowalchuk. We talk about the benefits of humanities for engineers, some difficult but important questions to ask yourself periodically, what we can learn about leadership in literature, and much more!</description>
             <content:encoded><![CDATA[A conversation with Herbst Program instructor Dr. Andrea Kowalchuk. We talk about the benefits of humanities for engineers, some difficult but important questions to ask yourself periodically, what we can learn about leadership in literature, and much more!]]>.</content:encoded>
-            <enclosure length="53048175" type="audio/mpeg" url="https://elppod.com/media/4-andrea-kowalchuk.mp3"/>
-            <guid>https://elppod.com/media/4-andrea-kowalchuk.mp3</guid>
+            <enclosure length="53048175" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/4-andrea-kowalchuk.mp3"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/4-andrea-kowalchuk.mp3</guid>
             <pubDate>Tue, 5 Mar 2019 20:30:00 GMT</pubDate>
             <itunes:duration>55:15</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -116,8 +116,8 @@
             <itunes:summary>A conversation with former ELP director and former assistant dean for the College of Engineering and Applied Science, JoAnn Zelasko. We discuss her careers in computing and education, the challenges she faced, tips on how to land internships, and much more!</itunes:summary>
             <description>A conversation with former ELP director and former assistant dean for the College of Engineering and Applied Science, JoAnn Zelasko. We discuss her careers in computing and education, the challenges she faced, tips on how to land internships, and much more!</description>
             <content:encoded><![CDATA[A conversation with former ELP director and former assistant dean for the College of Engineering and Applied Science, JoAnn Zelasko. We discuss her careers in computing and education, the challenges she faced, tips on how to land internships, and much more!]]>.</content:encoded>
-            <enclosure length="75166625" type="audio/mpeg" url="https://elppod.com/media/3-joann-zelasko.mp3"/>
-            <guid>https://elppod.com/media/3-joann-zelasko.mp3</guid>
+            <enclosure length="75166625" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/3-joann-zelasko.mp3"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/3-joann-zelasko.mp3</guid>
             <pubDate>Tue, 22 Jan 2019 12:00:00 GMT</pubDate>
             <itunes:duration>41:22</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -133,8 +133,8 @@
             <itunes:summary>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&amp;id=10173 to find out more. You can also email Ang with any questions.</itunes:summary>
             <description>A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&amp;id=10173 to find out more. You can also email Ang with any questions.</description>
             <content:encoded><![CDATA[A conversation with Angela Thieman Dino (Ang), cultural anthropologist and senior instructor for ELP. We discuss her education, research and work with Bosnian refugees, how anthropology relates to leadership, and much more! If you are interested in the Complex Leadership Challenges course (COEN 3050, soon to be ENLP 3050) and the Global Intensive in Uganda and Rwanda, visit abroad.colorado.edu/index.cfm?FuseA…ngular&id=10173 to find out more. You can also email Ang with any questions.]]>.</content:encoded>
-            <enclosure length="82679141" type="audio/mpeg" url="https://elppod.com/media/2-angela-thieman-dino.mp3"/>
-            <guid>https://elppod.com/media/2-angela-thieman-dino.mp3</guid>
+            <enclosure length="82679141" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/2-angela-thieman-dino.mp3"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/2-angela-thieman-dino.mp3</guid>
             <pubDate>Sat, 10 Nov 2018 12:00:00 GMT</pubDate>
             <itunes:duration>57:25</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -150,8 +150,8 @@
             <itunes:summary>A conversation with the new ELP Director, Shilo Brooks. We discuss his background, how he discovered an interest in leadership and political science, two different sides of leadership, what he hopes to bring to ELP, and much more!</itunes:summary>
             <description>A conversation with the new ELP Director, Shilo Brooks. We discuss his background, how he discovered an interest in leadership and political science, two different sides of leadership, what he hopes to bring to ELP, and much more!</description>
             <content:encoded><![CDATA[A conversation with the new ELP Director, Shilo Brooks. We discuss his background, how he discovered an interest in leadership and political science, two different sides of leadership, what he hopes to bring to ELP, and much more!]]>.</content:encoded>
-            <enclosure length="28447424" type="audio/mpeg" url="https://elppod.com/media/1-shilo-brooks.mp3"/>
-            <guid>https://elppod.com/media/1-shilo-brooks.mp3</guid>
+            <enclosure length="28447424" type="audio/mpeg" url="https://creative.colorado.edu/~spwe4745/elppod/media/1-shilo-brooks.mp3"/>
+            <guid>https://creative.colorado.edu/~spwe4745/elppod/media/1-shilo-brooks.mp3</guid>
             <pubDate>Sat, 06 Oct 2018 12:00:00 GMT</pubDate>
             <itunes:duration>56:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
